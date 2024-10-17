@@ -19,4 +19,6 @@ footer{
     font-size: 25px;
     font-weight: 800;
     padding: 10px;
+    position: fixed;
+    bottom: 0;
 }
